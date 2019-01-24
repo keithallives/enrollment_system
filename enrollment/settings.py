@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Added Apps
     'pages.apps.PagesConfig',
+    'students.apps.StudentsConfig',
 ]
 
 MIDDLEWARE = [
